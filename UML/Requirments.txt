@@ -1,0 +1,22 @@
+Functional Requirements: These describe the specific behavior  that Our website supports.
+
+    1. User Registration & Login
+    2. Profile Management
+    3. Adoption Post
+    4. Searching
+    5. Pet Details
+    6. Adoption Request
+    7. Shortlisting(Favourite)
+    8. Alart Post
+    9.Messaging
+    10. Donation
+
+Non-Functional Requirements : These are the system qualities that focus on how the system performs its functions.
+    1. Performance
+    2.Usability
+    3.Availability
+    4.Scalability
+    5.Security
+    6.Data Backup
+    7.Response Times
+    8.Maintainability
