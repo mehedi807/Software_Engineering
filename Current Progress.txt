@@ -1,0 +1,19 @@
+1.UI design :
+                1. Home Page  (Mehedi)  ✅
+                2. Login (Mehedi)       ✅
+                3. Sign Up (Mehedi)     ✅
+                4. Post Adoption
+                5. List Pet (Upload pet for adoption)
+                6. Search
+                7. Profile Management
+                8. Messaging
+
+2.Coding :
+                1. Home Page
+                2. Login
+                3. Sign Up
+                4. Post Adoption
+                5. List Pet (Upload pet for adoption)
+                6. Search
+                7. Profile Management
+                8. Messaging
