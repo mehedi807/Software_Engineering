@@ -3,7 +3,7 @@
                 2. Login (Mehedi)       ✅
                 3. Sign Up (Mehedi)     ✅
                 4. Post Adoption
-                5. List Pet (Upload pet for adoption)
+                5. Adopt a pet
                 6. Search
                 7. Profile Management
                 8. Messaging
