@@ -9,9 +9,9 @@
                 8. Messaging
 
 2.Coding :
-                1. Home Page    (Mehedi)
-                2. Login        (Mehedi)
-                3. Sign Up      (Mehedi)
+                1. Home Page    (Mehedi)  ✅
+                2. Login        (Mehedi   ✅
+                3. Sign Up      (Mehedi)  ✅
                 4. Post Adoption
                 5. List Pet (Upload pet for adoption)
                 6. Search
